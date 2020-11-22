@@ -13,4 +13,3 @@ Example
 nayraTranslator.translate("en", "APIKEY", "es", "Hello World!");
 console.log(result)
 ```
-Ugly code :(, i know this // Nayra#7948 // https://github.com/xNayra/
