@@ -1,0 +1,14 @@
+{
+  "name": "rapidapid-google-nayra-translator",
+  "version": "1.0.3",
+  "description": "Translate messages in discord.js easy, Google Api Require",
+  "main": "nayra.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nayra",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/translate": "^6.0.3"
+  }
+}
